@@ -1,7 +1,7 @@
 import org.json.JSONObject;
 import org.json.XML;
 
-public class ConvertXmlToJson {
+public class Xml2Json {
 
     private static final int INDECT_FACTOR = 4;
 
